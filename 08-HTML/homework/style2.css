@@ -1,0 +1,10 @@
+#titulos {
+    font-size: 25px;
+    font-style: italic;
+}
+
+#title {
+    position: relative;
+    left: 0%;
+    text-align: center;
+}
